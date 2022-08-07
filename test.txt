@@ -1,5 +1,5 @@
 new feature1
 new feature2
-//del feature3
+new feature3
 new feature4
 new feature5
